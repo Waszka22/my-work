@@ -1,5 +1,5 @@
 # Lab
-#week 4
+# week 4
 # This program reads in
 # a students percentage
 # and prints out the
